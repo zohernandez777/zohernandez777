@@ -26,10 +26,10 @@
 Name: Alonzo
 School: Arizona State University - Computer Science
 Focus: Machine Learning, AI, Software Development, Bioinformatics
-currently_building: A supervised learning application using logistic regression to predict NFL win probabilities with real-time data 
+currently_building: Supervised learning application using logistic regression to predict NFL win probabilities 
 Currently Learning: Deep Learning, Docker and Kubernetes, AlphaFold
 Looking For: internships
-fun_fact: I love music(I play piano and guitar), passionate about applying machine learning in biogology and healthcare huge sports fan
+fun_fact:  play piano and guitar, passionate about applying machine learning in biology and healthcare, huge sports fan
 ```
 
 ---
