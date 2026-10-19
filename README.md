@@ -63,13 +63,5 @@ fun_fact: I love music(I play piano and guitar), passionate about applying machi
 
 ## 📈 GitHub Stats
 
-<!-- github-readme-stats cards. Only needs your username. -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zohernandez777&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohernandez777&layout=compact&hide_border=true" />
-</p>
-
-<!-- FOOTER banner (same style as header, flipped) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<!-- Cards are generated daily by .github/workflows/grs.yml using your own token, so they include private repo stats. They won't appear until the workflow runs once. -->
+<p align="center"> <img height="160" src="./profile/stats.svg" alt="GitHub stats" /> <img height="160" src="./profile/top-langs.svg" alt="Top languages" /> </p> <!-- FOOTER banner (same style as header, flipped) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p>
