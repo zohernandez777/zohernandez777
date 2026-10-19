@@ -38,3 +38,4 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+    options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true
