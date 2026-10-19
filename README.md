@@ -23,13 +23,13 @@
 
 <!-- YAML-style block from the Medium guide. Write each value yourself — keep it short. -->
 ```yaml
-name: Alonzo
-school: [school + degree]
-focus: [2–3 areas you want to be known for]
-currently_building: [what you're working on right now]
-currently_learning: [1–2 things]
-looking_for: [internships / new-grad roles in ...]
-fun_fact: [optional]
+Name: Alonzo
+School: Arizona State University - Computer Science
+Focus: Machine Learning, AI, Software Development, Bioinformatics
+currently_building: A supervised learning application using logistic regression to predict NFL win probabilities with real-time data 
+Currently Learning: Deep Learning, Docker and Kubernetes, AlphaFold
+Looking For: internships
+fun_fact: I love music(I play piano and guitar), passionate about applying machine learning in biogology and healthcare huge sports fan
 ```
 
 ---
