@@ -65,8 +65,8 @@ fun_fact: I love music(I play piano and guitar), passionate about applying machi
 
 <!-- github-readme-stats cards. Only needs your username. -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zohernandez777&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohernandez777&layout=compact&hide_border=true" />
 </p>
 
 <!-- FOOTER banner (same style as header, flipped) -->
