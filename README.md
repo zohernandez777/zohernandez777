@@ -6,16 +6,11 @@
 ============================================================= -->
 
 <!-- HEADER — capsule-render banner. Edit text= and desc= (use %20 for spaces, no # & /) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Alonzo&fontSize=50&fontAlignY=35&animation=fadeIn&desc=[YOUR%20TAGLINE%20HERE]&descAlignY=55" />
-</p>
+<!-- HEADER — anime GIF. Safer long-term: download it, upload to assets/ in this repo, and change src to ./assets/header.gif so the link can't break. -->
+<p align="center"> <img src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" alt="header" width="100%" /> </p> <h1 align="center">Hi, I'm Alonzo</h1> <p align="center">[your tagline]</p> 
 
-<!-- CONTACT LINKS — shields.io badges. Swap in your real URLs -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="[your-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> -->
-</p>
+<!-- CONTACT LINKS — shields.io badges. Swap in your real URLs --> 
+<p align="center"> <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <!-- <a href="[your-site]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> --> </p>
 
 ---
 
